@@ -1,9 +1,7 @@
 {
+  "name": "cypress-project",
+  "version": "1.0.0",
   "devDependencies": {
     "cypress": "^14.2.1"
-  },
-  "scripts": {
-    "cypress:open": "cypress open - with GUI",
-    "cypress:run": "cypress run - without GUI"
   }
 }
